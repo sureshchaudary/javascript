@@ -1,0 +1,4 @@
+function()
+{
+return google_tag_manager["GTM-K782L8Z"].dataLayer.get("gtm.element").parentElement.parentElement.querySelector("h1.product_title").innerText
+}
